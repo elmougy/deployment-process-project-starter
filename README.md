@@ -7,14 +7,14 @@ This application is provided to you as an alternative starter project if you do 
 
 ### screenshot for circleCi pipeline:
 
-![pipeline](https://github.com/elmougy/deployment-process-project-starter/blob/master/docs/build%20completed.png](https://github.com/elmougy/deployment-process-project-starter/blob/master/docs/pipeline%20completed.png) .
+![pipeline](https://github.com/elmougy/deployment-process-project-starter/blob/master/docs/pipeline%20completed.png) .
 
 
 ### application running (health:ok):
 ![health:ok](https://github.com/elmougy/deployment-process-project-starter/blob/master/docs/app%20running%20ok.png)
 
 ### frontend working:
-![frontend](https://github.com/elmougy/deployment-process-project-starter/blob/master/docs/app%20running%20ok.png](https://github.com/elmougy/deployment-process-project-starter/blob/master/docs/home%20page.png)
+![frontend](https://github.com/elmougy/deployment-process-project-starter/blob/master/docs/home%20page.png)
 
 ### Dependencies
 
