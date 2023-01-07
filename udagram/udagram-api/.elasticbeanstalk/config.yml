@@ -1,6 +1,8 @@
 branch-defaults:
   default:
     environment: Udagramapidev-env
+deploy:
+    artifact: ./www/Archive.zip
 environment-defaults:
   Udagramapidev-env:
     branch: null
