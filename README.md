@@ -4,17 +4,19 @@
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
+### hosting link :
+(http://udacityfrontend123.s3-website-us-east-1.amazonaws.com)
 
 ### screenshot for circleCi pipeline:
 
-![pipeline](https://github.com/elmougy/deployment-process-project-starter/blob/master/docs/pipeline%20completed.png) .
+![pipeline](https://github.com/elmougy/deployment-process-project-starter/blob/master/screenshots/pipeline%20completed.png) .
 
 
 ### application running (health:ok):
-![health:ok](https://github.com/elmougy/deployment-process-project-starter/blob/master/docs/app%20running%20ok.png)
+![health:ok](https://github.com/elmougy/deployment-process-project-starter/blob/master/screenshots/EB%20health.png)
 
 ### frontend working:
-![frontend](https://github.com/elmougy/deployment-process-project-starter/blob/master/docs/home%20page.png)
+![frontend](https://github.com/elmougy/deployment-process-project-starter/blob/master/screenshots/host%20working.png)
 
 ### Dependencies
 
