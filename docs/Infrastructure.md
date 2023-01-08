@@ -1,4 +1,4 @@
-##necessary AWS services needed for running the application:
+## necessary AWS services needed for running the application:
 
 - publicly available RDS database running Postgres.
 ![RDS](https://github.com/elmougy/deployment-process-project-starter/blob/master/screenshots/DB.png)
